@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yellow Messenger Assignment</string>
+    <string name="connectivity_error">Please check your connectivity</string>
+    <string name="search">Search</string>
+    <string name="hint">Enter search text here</string>
+    <string name="exception">Sorry. Something went wrong. Please try again after sometime</string>
+    <string name="search_error">Please enter text and click the search button</string>
+    <string name="avatar_image">Avatar image</string>
+    <string name="invalid_url">Invalid Url</string>
+    <string name="empty_user_list">Empty user list</string>
+
+</resources>
